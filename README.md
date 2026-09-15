@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey — I’m Gautam Kumar...
 📡 I’m currently working on AI-powered applications & full-stack projects like RouteWise<br>🤝 I’m looking to collaborate on AI/ML, Web Development & Open-Source projects<br>🫱 I’m looking for help with advanced AI/ML and real-world system development<br>🌱 I’m currently learning AI/ML, Cloud Computing, Networking & Full-Stack Development<br>💬 Ask me about Python, AI/ML, Web Development, SQL, Networking & my projects<br>⚡ Fun fact: I’ve ranked in the Top 20 at a national-level hackathon among 100+ teams
 
 
