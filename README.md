@@ -17,10 +17,8 @@ Hi, I'm Gautam 👋
   <img src="https://img.shields.io/github/stars/Kmrr-Gautam?label=Stars" alt="Total Stars">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kmrr-Gautam&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Kmrr-Gautam)
-
 <a target="_blank">
-  <img align="right" height="250" width="380" alt="Coding GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
+  <img align="right" height="250" width="380" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </a>
 
 - 🔭 Currently building **AI-powered applications & RouteWise**
@@ -45,16 +43,10 @@ Hi, I'm Gautam 👋
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,git,github" alt="Skills" />
+  </a>
 </p>
 
 ---
@@ -65,18 +57,15 @@ Hi, I'm Gautam 👋
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kmrr-Gautam&theme=radical&hide_border=true" alt="Kmrr-Gautam Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Kmrr-Gautam&theme=radical&hide_border=true" alt="Kmrr-Gautam Streak" />
 </p>
 
-
 ---
-
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kmrr-Gautam/Kmrr-Gautam/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kmrr-Gautam/Kmrr-Gautam/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Kmrr-Gautam/Kmrr-Gautam/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Game" src="https://raw.githubusercontent.com/Kmrr-Gautam/Kmrr-Gautam/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
