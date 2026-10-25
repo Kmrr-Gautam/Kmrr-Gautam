@@ -1,71 +1,93 @@
-<!-- Animated header -->
+<!-- ============ HERO ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gautam%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=20" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=GAUTAM%20KUMAR&fontSize=64&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Product%20Builder&descSize=20&descColor=ffffff&descAlignY=62" width="100%" alt="header" />
 </p>
 
-<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/Kmrr-Gautam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=Hello+World!+%F0%9F%91%8B+I'm+Gautam;AI-Powered+App+Builder+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Top+20+at+a+National+Hackathon+%F0%9F%8F%86;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=60&lines=%F0%9F%91%8B+Hello+World!+I'm+Gautam;%F0%9F%A4%96+I+build+AI-powered+products;%F0%9F%9A%80+Full-Stack+%7C+Android+%7C+Web;%F0%9F%8F%86+Top+20+%E2%80%94+National+Hackathon;%E2%9C%A8+Turning+ideas+into+shipped+apps" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" alt="Coding" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kmrr-Gautam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kmrr-Gautam?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Kmrr-Gautam?label=Stars&style=social" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/BCA%20(Hons.)-AI%2FML-7C4DFF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="BCA" />
+  <img src="https://img.shields.io/badge/Based%20in-Delhi%2C%20India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Delhi" />
+  <img src="https://img.shields.io/badge/Hackathon-Top%2020%20%F0%9F%8F%86-FFB300?style=for-the-badge" alt="Hackathon" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00B8D4?style=for-the-badge&logo=handshake&logoColor=white" alt="Open" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kmrr-Gautam&label=Profile%20Views&color=7C4DFF&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/Kmrr-Gautam?label=Followers&style=for-the-badge&logo=github&color=00B8D4" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Kmrr-Gautam?label=Stars&style=for-the-badge&logo=github&color=FFB300" alt="Stars" />
+</p>
 
-## 👨‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## ⚡ About Me
 
 <a target="_blank">
-  <img align="right" height="250" width="380" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" height="260" width="380" alt="Programmer" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </a>
 
-- 📡 Passionate developer building **AI-powered applications & full-stack systems (like RouteWise) 🚀**
-- 💡 Skilled in **Python, Java, Kotlin, C, and modern Web Technologies (HTML/CSS/JS) ⚙️**, turning real-world problems into scalable products
-- 🏆 Hackathon enthusiast: ranked **Top 20 at a national-level hackathon** among 100+ teams
-- 🤝 Always excited to collaborate on **AI/ML, Web Development, and Open-Source projects**
-- 🌱 Learning **Advanced AI/ML, Cloud Computing, Distributed Systems & System Design**
+```python
+class Gautam:
+    role     = "AI/ML + Full-Stack Developer"
+    studying = "BCA (Hons.) with Research, Galgotias University"
+    location = "Delhi, India 🇮🇳"
+    languages = ["Python", "Java", "Kotlin", "C", "JavaScript", "SQL"]
+    building  = ["RouteWise", "TuneGlass", "FilePeer"]
+    learning  = ["Advanced ML", "Cloud", "Distributed Systems"]
+    fun_fact  = "Top 20 at a national hackathon among 100+ teams 🏆"
+
+    def say_hi(self):
+        return "Let's build something awesome together! 🚀"
+```
+
+- 🔭 Currently building **AI-powered apps & RouteWise**
+- 🤝 Open to **AI/ML, Web Dev & Open-Source** collaborations
 - 💬 Ask me about **Python, AI/ML, Web Development, SQL & System Design**
 - 📫 Reach me at **[gautamkrmd1234@gmail.com](mailto:gautamkrmd1234@gmail.com)**
-- ⚡ Fun fact: I turn "it's impossible" into a weekend project 😄
 
 <br clear="both"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🚀 Featured Projects
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>🛣️ RouteWise</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=00C853&center=true&vCenter=true&width=260&height=30&lines=AI+Accident+Prediction;Safer+Routes+for+Everyone" alt="RouteWise" /><br/>
-      <a href="https://routewisesafety.vercel.app/">🔗 Live Demo</a>
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e3_fe0f/512.gif" width="60" alt="route" /><br/>
+      <h3>RouteWise</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=00E676&center=true&vCenter=true&width=250&height=30&lines=AI+Accident+Prediction;Safer+Routes+for+All" alt="RouteWise" /><br/>
+      <img src="https://img.shields.io/badge/AI%2FML-Web%20App-00E676?style=flat-square" alt="tag" /><br/><br/>
+      <a href="https://routewisesafety.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%92-00E676?style=for-the-badge" alt="Live" /></a>
     </td>
     <td align="center" width="33%">
-      <h3>🎧 TuneGlass</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=E91E63&center=true&vCenter=true&width=260&height=30&lines=Ad-Free+Music+Platform;Web+%2B+Android+APK" alt="TuneGlass" /><br/>
-      <a href="https://github.com/Kmrr-Gautam">🔗 View on GitHub</a>
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a7/512.gif" width="60" alt="music" /><br/>
+      <h3>TuneGlass</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=FF4081&center=true&vCenter=true&width=250&height=30&lines=Ad-Free+Music+Platform;Web+%2B+Android+APK" alt="TuneGlass" /><br/>
+      <img src="https://img.shields.io/badge/Kotlin-Web%20%2B%20Android-FF4081?style=flat-square" alt="tag" /><br/><br/>
+      <a href="https://github.com/Kmrr-Gautam"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-FF4081?style=for-the-badge" alt="View" /></a>
     </td>
     <td align="center" width="33%">
-      <h3>📁 FilePeer</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=2196F3&center=true&vCenter=true&width=260&height=30&lines=P2P+File+Transfer;Fast+%26+Private+Sharing" alt="FilePeer" /><br/>
-      <a href="https://thefilepeer.vercel.app">🔗 Live Demo</a>
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c1/512.gif" width="60" alt="files" /><br/>
+      <h3>FilePeer</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=40C4FF&center=true&vCenter=true&width=250&height=30&lines=P2P+File+Transfer;Fast+%26+Private" alt="FilePeer" /><br/>
+      <img src="https://img.shields.io/badge/P2P-Web%20App-40C4FF?style=flat-square" alt="tag" /><br/><br/>
+      <a href="https://thefilepeer.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%92-40C4FF?style=for-the-badge" alt="Live" /></a>
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Arsenal
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -78,36 +100,38 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=print('Keep+building.+Keep+learning.');while+alive%3A+code()%3B+learn()%3B+repeat()" alt="Code typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7931E&center=true&vCenter=true&width=640&lines=while+alive%3A+code()%3B+learn()%3B+ship()%3B;model.fit(dreams%2C+epochs%3Dinfinity)%3B;git+commit+-m+%22one+more+feature%22" alt="Code typing" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kmrr-Gautam&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmrr-Gautam&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kmrr-Gautam&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kmrr-Gautam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=7c4dff" alt="Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmrr-Gautam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kmrr-Gautam&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=Kmrr-Gautam&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=ff6d00&currStreakLabel=00f5ff" alt="Streak" />
 </p>
-
-## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kmrr-Gautam&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kmrr-Gautam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kmrr-Gautam&bg_color=0f0c29&color=00f5ff&line=7c4dff&point=ffffff&area=true&area_color=7c4dff&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kmrr-Gautam/Kmrr-Gautam/output/github-contribution-grid-snake-dark.svg">
@@ -115,7 +139,13 @@
   <img alt="Snake Game" src="https://raw.githubusercontent.com/Kmrr-Gautam/Kmrr-Gautam/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
 
 ## 🤝 Let's Connect
 
@@ -132,10 +162,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%92%99;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&width=620&lines=Thanks+for+stopping+by!+%F0%9F%92%99;Let's+build+something+awesome+together+%F0%9F%9A%80;Star+%E2%AD%90+if+you+liked+this+profile" alt="Thanks" />
 </p>
 
-<!-- Animated footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&animation=twinkling" width="100%" alt="footer" />
 </p>
