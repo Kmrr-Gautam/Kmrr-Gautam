@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" alt="Coding" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/BCA%20(Hons.)-AI%2FML-7C4DFF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="BCA" />
   <img src="https://img.shields.io/badge/Based%20in-Delhi%2C%20India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Delhi" />
   <img src="https://img.shields.io/badge/Hackathon-Top%2020%20%F0%9F%8F%86-FFB300?style=for-the-badge" alt="Hackathon" />
@@ -114,20 +110,6 @@ class Gautam:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🎯 What I'm Up To
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45%" alt="Hacker typing" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" alt="Coding" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%B1+Crafting+Android+apps+with+Kotlin+%26+Jetpack+Compose;%F0%9F%A7%A0+Training+smarter+AI%2FML+models;%E2%98%81%EF%B8%8F+Exploring+Cloud+%26+Distributed+Systems" alt="Now" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -143,10 +125,6 @@ class Gautam:
   <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Hackathon-Top%2020%20of%20100%2B%20Teams-FFB300?style=for-the-badge" alt="Hackathon" />
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Shipped-3%2B%20Live%20Projects-00E676?style=for-the-badge" alt="Projects" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Focus-AI%2FML%20%26%20Kotlin-7C4DFF?style=for-the-badge" alt="Focus" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/7c4dff/Kmrr-Gautam" alt="Contribution Chart" width="95%" />
 </p>
 
 <picture>
