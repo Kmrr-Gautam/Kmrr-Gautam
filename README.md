@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!! 👋</h1>
 
-<img width="100%" alt="github_banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Gautam%20Kumar&fontSize=65&fontAlignY=38&desc=AI%20%26%20Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descFontSize=20&descAlignY=62&fontColor=ffffff" />
+<img width="100%" alt="github_banner" src="./assets/header-banner.svg" />
 
 ## 👨‍💻 About Me
 
