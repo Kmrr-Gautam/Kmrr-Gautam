@@ -131,8 +131,6 @@ class Gautam:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kmrr-Gautam&bg_color=0f0c29&color=00f5ff&line=7c4dff&point=ffffff&area=true&area_color=7c4dff&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
-## 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kmrr-Gautam/Kmrr-Gautam/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kmrr-Gautam/Kmrr-Gautam/output/github-contribution-grid-snake.svg">
