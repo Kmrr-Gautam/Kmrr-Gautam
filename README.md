@@ -1,11 +1,11 @@
 <!-- ============ HERO ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=GAUTAM%20KUMAR&fontSize=64&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Product%20Builder&descSize=20&descColor=ffffff&descAlignY=62" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=GAUTAM%20KUMAR&fontSize=64&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20Kotlin%20Developer%20%E2%80%A2%20Product%20Builder&descSize=20&descColor=ffffff&descAlignY=62" width="100%" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Kmrr-Gautam">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=60&lines=%F0%9F%91%8B+Hello+World!+I'm+Gautam;%F0%9F%A4%96+I+build+AI-powered+products;%F0%9F%9A%80+Full-Stack+%7C+Android+%7C+Web;%F0%9F%8F%86+Top+20+%E2%80%94+National+Hackathon;%E2%9C%A8+Turning+ideas+into+shipped+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=60&lines=%F0%9F%91%8B+Hello+World!+I'm+Gautam;%F0%9F%A4%96+I+build+AI-powered+products;%F0%9F%9A%80+Kotlin+Developer+%7C+Android+%7C+Web;%F0%9F%8F%86+Top+20+%E2%80%94+National+Hackathon;%E2%9C%A8+Turning+ideas+into+shipped+apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ```python
 class Gautam:
-    role     = "AI/ML + Full-Stack Developer"
+    role     = "AI/ML + Kotlin Developer"
     studying = "BCA (Hons.) with Research, Galgotias University"
     location = "Delhi, India 🇮🇳"
     languages = ["Python", "Java", "Kotlin", "C", "JavaScript", "SQL"]
@@ -103,11 +103,27 @@ class Gautam:
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7931E&center=true&vCenter=true&width=640&lines=while+alive%3A+code()%3B+learn()%3B+ship()%3B;model.fit(dreams%2C+epochs%3Dinfinity)%3B;git+commit+-m+%22one+more+feature%22" alt="Code typing" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🎯 What I'm Up To
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45%" alt="Hacker typing" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" alt="Coding" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%B1+Crafting+Android+apps+with+Kotlin+%26+Jetpack+Compose;%F0%9F%A7%A0+Training+smarter+AI%2FML+models;%E2%98%81%EF%B8%8F+Exploring+Cloud+%26+Distributed+Systems" alt="Now" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
@@ -124,11 +140,13 @@ class Gautam:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kmrr-Gautam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Hackathon-Top%2020%20of%20100%2B%20Teams-FFB300?style=for-the-badge" alt="Hackathon" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Shipped-3%2B%20Live%20Projects-00E676?style=for-the-badge" alt="Projects" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Focus-AI%2FML%20%26%20Kotlin-7C4DFF?style=for-the-badge" alt="Focus" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kmrr-Gautam&bg_color=0f0c29&color=00f5ff&line=7c4dff&point=ffffff&area=true&area_color=7c4dff&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/7c4dff/Kmrr-Gautam" alt="Contribution Chart" width="95%" />
 </p>
 
 <picture>
