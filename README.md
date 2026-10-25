@@ -43,8 +43,9 @@ Hi, I'm Gautam 👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,git,github" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,html,css,mysql,git,github,vscode" alt="Tech Stack" />
   </a>
+  <img src="./assets/antigravity.svg" height="48" width="48" alt="Google Antigravity" style="vertical-align: top;" />
 </p>
 
 ---
