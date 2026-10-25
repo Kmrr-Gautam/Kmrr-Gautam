@@ -1,7 +1,5 @@
 <h1 align="center">Hello World!! 👋</h1>
 
-<img width="100%" alt="github_banner" src="./assets/header-banner.svg" />
-
 ## 👨‍💻 About Me
 
 Hi, I'm Gautam 👋  
