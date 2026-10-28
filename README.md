@@ -1,6 +1,6 @@
 <!-- ============ HERO ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=GAUTAM%20KUMAR&fontSize=64&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20Kotlin%20Developer%20%E2%80%A2%20Product%20Builder&descSize=20&descColor=ffffff&descAlignY=62" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=GAUTAM%20KUMAR&fontSize=64&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20Kotlin%20Developer%20%E2%80%A2%20Product%20Builder&descSize=20&descColor=ffffff&descAlignY=60" width="100%" alt="header" />
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@
   <img src="https://img.shields.io/github/stars/Kmrr-Gautam?label=Stars&style=for-the-badge&logo=github&color=FFB300" alt="Stars" />
 </p>
 
-<!-- Quick-jump navigation (clickable) -->
+<!-- Clickable quick navigation -->
 <p align="center">
   <a href="#-about-me"><img src="https://img.shields.io/badge/About-00F5FF?style=flat-square&logo=readme&logoColor=black" alt="About" /></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-FF4081?style=flat-square&logo=rocket&logoColor=white" alt="Projects" /></a>
-  <a href="#-latest-projects-auto-updated"><img src="https://img.shields.io/badge/Latest-00E676?style=flat-square&logo=github&logoColor=black" alt="Latest" /></a>
+  <a href="#-what-im-building"><img src="https://img.shields.io/badge/Building-00E676?style=flat-square&logo=rocket&logoColor=black" alt="Building" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-FF4081?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
   <a href="#%EF%B8%8F-tech-arsenal"><img src="https://img.shields.io/badge/Tech-FF6F00?style=flat-square&logo=stackshare&logoColor=white" alt="Tech" /></a>
   <a href="#-github-analytics"><img src="https://img.shields.io/badge/Stats-7C4DFF?style=flat-square&logo=graphql&logoColor=white" alt="Stats" /></a>
   <a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Contact" /></a>
@@ -42,9 +42,9 @@
 
 ```python
 class Gautam:
-    role     = "AI/ML + Kotlin Developer"
-    studying = "BCA (Hons.) with Research, Galgotias University"
-    location = "Delhi, India 🇮🇳"
+    role      = "AI/ML + Kotlin Developer"
+    studying  = "BCA (Hons.) with Research, Galgotias University"
+    location  = "Delhi, India 🇮🇳"
     languages = ["Python", "Java", "Kotlin", "C", "JavaScript", "SQL"]
     building  = ["AI projects", "Android projects", "Web projects"]
     learning  = ["Advanced ML", "Cloud", "Distributed Systems"]
@@ -61,10 +61,35 @@ class Gautam:
 
 <br clear="both"/>
 
-<!-- Animated "now building" ticker -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=700&color=00E676&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%A7%A0+AI+projects+%E2%86%92+models%2C+vision%2C+prediction;%F0%9F%93%B1+Android+projects+%E2%86%92+Kotlin+%2B+Jetpack+Compose;%F0%9F%8C%90+Web+projects+%E2%86%92+fast%2C+private%2C+deployed+on+Vercel" alt="Building ticker" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🔭 What I'm Building
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="64" alt="AI" /><br/>
+      <h3>AI Projects</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2400&pause=700&color=00E676&center=true&vCenter=true&width=260&height=30&lines=Prediction+%26+vision+models;Smart+safety+systems;Python+%2B+TensorFlow+%2B+PyTorch" alt="AI" /><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f1/512.gif" width="64" alt="Android" /><br/>
+      <h3>Android Projects</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2400&pause=700&color=3DDC84&center=true&vCenter=true&width=260&height=30&lines=Kotlin+%2B+Jetpack+Compose;Apps+that+feel+native;From+idea+to+APK" alt="Android" /><br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="64" alt="Web" /><br/>
+      <h3>Web Projects</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2400&pause=700&color=40C4FF&center=true&vCenter=true&width=260&height=30&lines=Fast%2C+private+%26+responsive;Deployed+on+Vercel;Built+to+be+used" alt="Web" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
@@ -98,20 +123,6 @@ class Gautam:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🆕 Latest Projects (auto-updated)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00F5FF&center=true&vCenter=true&width=620&lines=Synced+automatically+from+my+GitHub+repos+%F0%9F%94%84;Push+a+new+project+%E2%86%92+it+shows+up+here+%E2%9C%A8" alt="Auto-updated" />
-</p>
-
-<!-- START_SECTION:projects -->
-<p align="center"><i>Projects will appear here after the first workflow run.</i></p>
-<!-- END_SECTION:projects -->
-
-<p align="center"><sub>🕒 Last synced: <!-- START_SECTION:updated -->never<!-- END_SECTION:updated --></sub></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
 ## 🛠️ Tech Arsenal
 
 <p align="center">
@@ -138,13 +149,23 @@ class Gautam:
   <summary><b>🔎 Click to expand: full AI / ML toolkit</b></summary>
   <br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/Torchvision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="TorchVision" />
+    <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="TorchVision" />
     <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
     <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white" alt="NLTK" />
     <img src="https://img.shields.io/badge/SpeechRecognition-4285F4?style=flat-square&logo=googleassistant&logoColor=white" alt="SpeechRecognition" />
     <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
     <img src="https://img.shields.io/badge/Google%20GenAI%20SDK-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="GenAI" />
   </p>
+</details>
+
+<details>
+  <summary><b>🎓 Click to expand: education & achievements</b></summary>
+  <br/>
+
+  - 🎓 **BCA (Hons.) with Research**, Galgotias University (since 2023), specializing in AI/ML
+  - 🏆 **Top 20** at a national-level hackathon among 100+ teams
+  - 🚀 Shipped **AI, Android & Web projects** with live deployments on Vercel
+
 </details>
 
 <p align="center">
@@ -180,6 +201,7 @@ class Gautam:
   <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Focus-AI%2FML%20%26%20Kotlin-7C4DFF?style=for-the-badge" alt="Focus" />
 </p>
 
+<!-- Snake animation (needs the snake workflow you already have) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kmrr-Gautam/Kmrr-Gautam/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kmrr-Gautam/Kmrr-Gautam/output/github-contribution-grid-snake.svg">
