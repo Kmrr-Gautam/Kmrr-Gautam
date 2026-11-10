@@ -1,39 +1,40 @@
 <!-- ============ HERO ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=GAUTAM%20KUMAR&fontSize=68&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20Kotlin%20Developer%20%E2%80%A2%20Product%20Builder&descSize=20&descColor=ffffff&descAlignY=60" width="100%" alt="Gautam Kumar header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=GAUTAM%20KUMAR&fontSize=68&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Ships%20things%20%28eventually%29&descSize=20&descColor=ffffff&descAlignY=60" width="100%" alt="Gautam Kumar header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Kmrr-Gautam">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=60&lines=%F0%9F%91%8B+Hello+World!+I'm+Gautam;%F0%9F%A4%96+I+build+AI-powered+products;%F0%9F%9A%80+Kotlin+Developer+%7C+Android+%7C+Web;%F0%9F%8F%86+Top+20+%E2%80%94+National+Hackathon;%E2%9C%A8+Turning+ideas+into+shipped+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=820&height=60&lines=%24+sudo+make+me+a+sandwich;Hello+World!+Yes%2C+another+one.;I+train+models+that+are+right+most+of+the+time!;Kotlin+dev.+Null+safety+is+my+love+language.;Top+20+nationally.+Yes%2C+I+will+mention+it+again.;Works+on+my+machine+%E2%86%92+deployed+on+Vercel" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BCA%20(Hons.)-AI%2FML-7C4DFF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="BCA" />
+  <img src="https://img.shields.io/badge/Status-Caffeinated-7C4DFF?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Bugs-Undocumented%20Features-FF4081?style=for-the-badge&logo=bugatti&logoColor=white" alt="Bugs" />
   <img src="https://img.shields.io/badge/Based%20in-Delhi%2C%20India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Delhi" />
   <img src="https://img.shields.io/badge/Hackathon-Top%2020%20%F0%9F%8F%86-FFB300?style=for-the-badge" alt="Hackathon" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00B8D4?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
 </p>
 
-<!-- ============ CALL-TO-ACTION BUTTONS ============ -->
+<!-- ============ CTA BUTTONS ============ -->
 <p align="center">
-  <a href="https://routewisesafety.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20TRY%20ROUTEWISE-00E676?style=for-the-badge&labelColor=0f0c29" alt="Try RouteWise" /></a>
-  <a href="https://thefilepeer.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%93%81%20TRY%20FILEPEER-40C4FF?style=for-the-badge&labelColor=0f0c29" alt="Try FilePeer" /></a>
-  <a href="mailto:gautamkrmd1234@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%AB%20HIRE%20%2F%20COLLAB-FF4081?style=for-the-badge&labelColor=0f0c29" alt="Hire or collaborate" /></a>
+  <a href="https://routewisesafety.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20RUN%20ROUTEWISE-00E676?style=for-the-badge&labelColor=0f0c29" alt="Run RouteWise" /></a>
+  <a href="https://thefilepeer.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20RUN%20FILEPEER-40C4FF?style=for-the-badge&labelColor=0f0c29" alt="Run FilePeer" /></a>
+  <a href="mailto:gautamkrmd1234@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20HIRE%20ME%20%28PLEASE%29-FF4081?style=for-the-badge&labelColor=0f0c29" alt="Hire me" /></a>
 </p>
 
-<!-- ============ NAV BAR ============ -->
+<!-- ============ NAV ============ -->
 <p align="center">
-  <a href="#about"><b>About</b></a> &nbsp;•&nbsp;
-  <a href="#projects"><b>Projects</b></a> &nbsp;•&nbsp;
-  <a href="#stack"><b>Tech Stack</b></a> &nbsp;•&nbsp;
-  <a href="#stats"><b>Stats</b></a> &nbsp;•&nbsp;
-  <a href="#connect"><b>Connect</b></a>
+  <code><a href="#about">./about</a></code> &nbsp;
+  <code><a href="#projects">./projects</a></code> &nbsp;
+  <code><a href="#stack">./stack</a></code> &nbsp;
+  <code><a href="#log">./git-log</a></code> &nbsp;
+  <code><a href="#faq">./faq</a></code> &nbsp;
+  <code><a href="#connect">./ping</a></code>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kmrr-Gautam&label=Profile%20Views&color=7C4DFF&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kmrr-Gautam&label=Profile%20Views%20%28mostly%20me%29&color=7C4DFF&style=flat-square" alt="Views" />
   <img src="https://img.shields.io/github/followers/Kmrr-Gautam?label=Followers&style=flat-square&logo=github&color=00B8D4" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Kmrr-Gautam?label=Stars&style=flat-square&logo=github&color=FFB300" alt="Stars" />
 </p>
@@ -42,10 +43,10 @@
 
 <!-- ============ ABOUT ============ -->
 <a id="about"></a>
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">⚡ whoami</h2>
 
 <p align="center">
-  <i>Student by degree, builder by habit. I turn ideas into products people can actually open and use.</i>
+  <i>Student by degree. Builder by habit. Googler by necessity.</i>
 </p>
 
 <table align="center">
@@ -54,32 +55,38 @@
 
 ```python
 class Gautam:
-    role      = "AI/ML + Kotlin Developer"
-    studying  = "BCA (Hons.) with Research"
+    role       = "AI/ML + Kotlin Developer"   # yes, both
+    studying   = "BCA (Hons.) with Research"
     university = "Galgotias University"
-    location  = "Delhi, India 🇮🇳"
-    languages = ["Python", "Java", "Kotlin",
-                 "C", "JavaScript", "SQL"]
-    building  = ["RouteWise", "TuneGlass", "FilePeer"]
-    learning  = ["Advanced ML", "Cloud",
-                 "Distributed Systems"]
-    fun_fact  = "Top 20 at a national hackathon 🏆"
+    location   = "Delhi, India 🇮🇳"
+    languages  = ["Python", "Java", "Kotlin",
+                  "C", "JavaScript", "SQL"]   # SQL counts. fight me.
+    building   = ["RouteWise", "TuneGlass", "FilePeer"]
+    learning   = ["Advanced ML", "Cloud",
+                  "Distributed Systems"]      # i.e. new ways to break prod
+    fun_fact   = "Top 20 at a national hackathon 🏆"
+
+    def debug(self, error):
+        return stackoverflow.search(error)    # tradition
 
     def say_hi(self):
-        return "Let's build something awesome! 🚀"
+        return "Let's build something awesome 🚀"
 ```
 
    </td>
    <td width="45%" valign="top">
 
-**🔭 Right now**
-Building AI-powered apps & RouteWise
+**🔭 Currently**
+Building AI-powered apps and RouteWise. Also fixing whatever I broke yesterday.
 
 **🤝 Open to**
-AI/ML, Web Dev & Open-Source collabs
+AI/ML, Web Dev & Open-Source collabs. Bring ideas. Snacks optional.
 
 **💬 Ask me about**
 Python · AI/ML · Web Dev · SQL · System Design
+
+**🚫 Don't ask me**
+To center a div without a quick Google.
 
 **📫 Reach me**
 [gautamkrmd1234@gmail.com](mailto:gautamkrmd1234@gmail.com)
@@ -89,7 +96,7 @@ Python · AI/ML · Web Dev · SQL · System Design
 </table>
 
 > [!TIP]
-> 🏆 **Top 20 out of 100+ teams** at a national hackathon, and **3+ projects shipped live**.
+> 🏆 **Top 20 out of 100+ teams** at a national hackathon, and **3+ projects shipped live**. Yes, live. On the actual internet. Where strangers can break them.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
@@ -97,15 +104,15 @@ Python · AI/ML · Web Dev · SQL · System Design
 <a id="projects"></a>
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center"><i>Things I've designed, built, and shipped.</i></p>
+<p align="center"><i>Not another to-do app. (There might be one somewhere. We don't talk about it.)</i></p>
 
 <table align="center">
   <tr>
     <td align="center" width="33%" valign="top">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e3_fe0f/512.gif" width="64" alt="route" />
       <h3>RouteWise</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=00E676&center=true&vCenter=true&width=250&height=30&lines=AI+Accident+Prediction;Safer+Routes+for+All" alt="RouteWise tagline" />
-      <p>An AI/ML-powered web app that predicts accident risk so people can pick safer routes.</p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=00E676&center=true&vCenter=true&width=260&height=30&lines=AI+Accident+Prediction;Safer+Routes+for+All" alt="RouteWise tagline" />
+      <p>Machine learning, but make it useful. Predicts accident risk so your commute is slightly less "exciting".</p>
       <img src="https://img.shields.io/badge/AI%2FML-00E676?style=flat-square" alt="AI/ML" />
       <img src="https://img.shields.io/badge/Web%20App-00B8D4?style=flat-square" alt="Web app" />
       <br/><br/>
@@ -114,8 +121,8 @@ Python · AI/ML · Web Dev · SQL · System Design
     <td align="center" width="33%" valign="top">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a7/512.gif" width="64" alt="music" />
       <h3>TuneGlass</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=FF4081&center=true&vCenter=true&width=250&height=30&lines=Ad-Free+Music+Platform;Web+%2B+Android+APK" alt="TuneGlass tagline" />
-      <p>An ad-free music platform available on the web and as an Android APK.</p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=FF4081&center=true&vCenter=true&width=260&height=30&lines=Ad-Free+Music+Platform;Web+%2B+Android+APK" alt="TuneGlass tagline" />
+      <p>Music with zero ads. Revolutionary, I know. Lives on the web and as an Android APK.</p>
       <img src="https://img.shields.io/badge/Kotlin-FF4081?style=flat-square" alt="Kotlin" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square" alt="Android" />
       <br/><br/>
@@ -124,8 +131,8 @@ Python · AI/ML · Web Dev · SQL · System Design
     <td align="center" width="33%" valign="top">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c1/512.gif" width="64" alt="files" />
       <h3>FilePeer</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=40C4FF&center=true&vCenter=true&width=250&height=30&lines=P2P+File+Transfer;Fast+%26+Private" alt="FilePeer tagline" />
-      <p>Fast, private peer-to-peer file transfer straight from your browser.</p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=40C4FF&center=true&vCenter=true&width=260&height=30&lines=P2P+File+Transfer;Fast+%26+Private" alt="FilePeer tagline" />
+      <p>Peer-to-peer file transfer, so you can stop mailing yourself "final_FINAL_v2.pdf".</p>
       <img src="https://img.shields.io/badge/P2P-40C4FF?style=flat-square" alt="P2P" />
       <img src="https://img.shields.io/badge/Web%20App-00B8D4?style=flat-square" alt="Web app" />
       <br/><br/>
@@ -140,15 +147,17 @@ Python · AI/ML · Web Dev · SQL · System Design
 <a id="stack"></a>
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
+<p align="center"><i>Tools I use daily, and a few I installed once and now just have opinions about.</i></p>
+
 <table align="center">
   <tr>
-    <td align="center" width="25%"><b>💻 Languages</b></td>
-    <td align="center" width="75%">
+    <td align="center" width="28%"><b>💻 Languages</b><br/><sub>the ones I'll admit to</sub></td>
+    <td align="center" width="72%">
       <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,html,css&perline=7" alt="Languages" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🤖 AI / ML</b></td>
+    <td align="center"><b>🤖 AI / ML</b><br/><sub>teaching rocks to think</sub></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" alt="AI ML" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
@@ -156,7 +165,7 @@ Python · AI/ML · Web Dev · SQL · System Design
     </td>
   </tr>
   <tr>
-    <td align="center"><b>📱 Mobile</b></td>
+    <td align="center"><b>📱 Mobile</b><br/><sub>pixels, but pocket-sized</sub></td>
     <td align="center">
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
       <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
@@ -164,7 +173,7 @@ Python · AI/ML · Web Dev · SQL · System Design
     </td>
   </tr>
   <tr>
-    <td align="center"><b>☁️ Tools & Deploy</b></td>
+    <td align="center"><b>☁️ Tools & Deploy</b><br/><sub>git blame is for others</sub></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel&perline=5" alt="Tools" />
       <img src="./assets/antigravity.svg" height="48" width="48" alt="Google Antigravity" style="vertical-align: top;" />
@@ -173,14 +182,34 @@ Python · AI/ML · Web Dev · SQL · System Design
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7931E&center=true&vCenter=true&width=640&lines=while+alive%3A+code()%3B+learn()%3B+ship()%3B;model.fit(dreams%2C+epochs%3Dinfinity)%3B;git+commit+-m+%22one+more+feature%22" alt="Code typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7931E&center=true&vCenter=true&width=700&lines=while+alive%3A+code()%3B+learn()%3B+ship()%3B;model.fit(dreams%2C+epochs%3Dinfinity)%3B;git+commit+-m+%22one+more+feature%22+%23+famous+last+words;%2F%2F+TODO%3A+sleep" alt="Code typing" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
+<!-- ============ GIT LOG ============ -->
+<a id="log"></a>
+<h2 align="center">📜 git log --oneline</h2>
+
+<p align="center"><i>My career so far, as commit messages.</i></p>
+
+```bash
+$ git log --oneline --graph
+
+* a1f4c9e (HEAD -> main) feat: building AI apps and RouteWise
+* 7b2d0e1 feat: learning Advanced ML, Cloud, Distributed Systems
+* 5c9e3a8 feat: top 20 at a national hackathon among 100+ teams 🏆
+* 3d8f7b2 feat: shipped FilePeer. strangers can now transfer files.
+* 9e1a4c6 feat: shipped TuneGlass (web + APK). no ads were harmed.
+* 2f6b8d3 feat: shipped RouteWise. predicts accidents, not my deadlines.
+* 8a3c5e0 fix: sleep schedule  # wontfix
+* 0000001 init: BCA (Hons.) AI/ML at Galgotias University
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
 <!-- ============ STATS ============ -->
-<a id="stats"></a>
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 Analytics (a.k.a. the receipts)</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kmrr-Gautam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=7c4dff" alt="Stats" height="170" />
@@ -205,8 +234,38 @@ Python · AI/ML · Web Dev · SQL · System Design
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
+<!-- ============ FAQ ============ -->
+<a id="faq"></a>
+<h2 align="center">❓ FAQ (Frequently Avoided Questions)</h2>
+
+<details>
+<summary><b>Is your code production ready?</b></summary>
+<br/>
+It's deployed on Vercel, so it's at least internet ready. Production readiness is a spectrum. 😌
+</details>
+
+<details>
+<summary><b>Will you fix my bug?</b></summary>
+<br/>
+Send a clear description, steps to reproduce and an error log. "It doesn't work" is not a bug report, it's a mood.
+</details>
+
+<details>
+<summary><b>Can I hire you / collaborate with you?</b></summary>
+<br/>
+Yes! Email me below. And no, "exposure" doesn't pay for GPUs, but good ideas and good people do get my attention.
+</details>
+
+<details>
+<summary><b>Tabs or spaces?</b></summary>
+<br/>
+Whatever the formatter says. I stopped fighting that war a long time ago.
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
 <!-- ============ QUOTE ============ -->
-<h2 align="center">💬 Dev Quote of the Day</h2>
+<h2 align="center">💬 Wisdom, Randomly Generated</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
@@ -214,10 +273,15 @@ Python · AI/ML · Web Dev · SQL · System Design
 
 <!-- ============ CONNECT ============ -->
 <a id="connect"></a>
-<h2 align="center">🤝 Let's Build Something Together</h2>
+<h2 align="center">🤝 ping gautam</h2>
+
+```bash
+$ ping gautam
+64 bytes from gautam: icmp_seq=1 ttl=64 time=replies-within-reason
+```
 
 <p align="center">
-  <i>Got an idea, a project, or an opportunity? My inbox is open.</i>
+  <i>Got an idea, a project, or an opportunity? My inbox is open. My sleep schedule is not.</i>
 </p>
 
 <p align="center">
@@ -233,7 +297,7 @@ Python · AI/ML · Web Dev · SQL · System Design
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&width=620&lines=Thanks+for+stopping+by!+%F0%9F%92%99;Let's+build+something+awesome+together+%F0%9F%9A%80;Star+%E2%AD%90+if+you+liked+this+profile" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+%F0%9F%92%99;You+scrolled+all+the+way+here.+Respect.;Star+%E2%AD%90+if+you+liked+it.+Or+don't.+I'll+be+fine.;exit+0" alt="Thanks" />
 </p>
 
 <p align="center">
